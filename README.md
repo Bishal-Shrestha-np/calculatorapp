@@ -2,8 +2,8 @@
  A simple project building a sleek calculator using vanilla HTML, CSS, and JavaScript leveraging various JavaScript methods and functions to create an impressive calculator .This project demonstrates core JavaScript logic, DOM manipulation, and CSS styling.
 
 # Features
-Addition, subtraction, multiplication, and division operations.
-Clear functionality to reset the calculator.
+-Addition, subtraction, multiplication, and division operations.
+-Clear functionality to reset the calculator.
 Ability to delete the last character in the expression.
 Support for decimal numbers.
 Percentage calculations.
